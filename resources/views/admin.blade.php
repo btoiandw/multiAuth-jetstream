@@ -6,6 +6,6 @@
     </x-slot> --}}
 
     <div class="py-12">
-        <h1>admin</h1>
+        <h1>admin1234567890</h1>
     </div>
 </x-app-layout>
